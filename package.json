@@ -51,7 +51,7 @@
     "autoprefixer": "^9.0.0",
     "@babel/core": "^7.4.3",
     "@babel/plugin-transform-object-assign": "^7.2.0",
-    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-env": "^7.4.3",
     "browser-sync": "^2.18.13",
     "browserslist": "^4.0.0",
     "bundlesize": "^0.17.0",
