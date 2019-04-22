@@ -52,7 +52,7 @@
     "@babel/core": "^7.0.0",
     "@babel/plugin-transform-object-assign": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
-    "browser-sync": "^2.18.13",
+    "browser-sync": "^2.26.4",
     "browserslist": "^4.0.0",
     "bundlesize": "^0.17.0",
     "chokidar-cli": "^1.2.0",
